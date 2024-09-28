@@ -1,0 +1,6 @@
+{
+  "watch": ["src/frontend", "src/backend"],
+  "ext": "ts",
+  "ignore": ["dist/", "node_modules/"],
+  "exec": "npm run build-and-restart"
+  }
